@@ -1,0 +1,32 @@
+.body{
+  background-color:#EEEEEE;
+}
+
+.heading{
+    text-align:center;
+}
+
+.heroimg{
+  background-color:#ffffff;
+  padding:5px;
+}
+
+img{
+    margin-left:auto;
+  margin-right:auto;
+}
+
+.quote{
+  color:grey;
+}
+
+.subtitle{
+  text-align:center;
+}
+
+.core{
+  margin-left:auto;
+  margin-right:auto;
+  padding:0 15% 0 15%;
+}
+
